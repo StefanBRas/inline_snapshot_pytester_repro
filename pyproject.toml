@@ -1,0 +1,9 @@
+[project]
+name = "inline_repro"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "inline-snapshot>=0.22.0",
+    "pytest>=8.3.4",
+]
+
